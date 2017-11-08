@@ -1,0 +1,126 @@
+html {
+  display: grid;
+  font-size: 14px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  color: grey;
+  font-family: <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+}
+
+.leftheader {
+  font-family: arial;
+  float: left;
+  width 200px
+  color: white;
+}
+
+.rightheader {
+  font-family: arial;
+  float: right;
+  width: 150px;
+  color: white;
+}
+
+.header-image1 {
+  float: right;
+  color: white;
+  background-color: white;
+  margin: 1px;
+  padding: 1px white;
+  border-color: white;
+}
+
+.header-image2 {
+  float: right;
+  background-color: white;
+  margin: 1px;
+  padding: 1px white;
+}
+
+.header-image3 {
+  float: right;
+  color: white;
+  background-color: white;
+  margin: 1px;
+  padding: 1px white;
+}
+
+ul {
+    font-family: arial;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+li {
+    font-family: arial;
+    float: left;
+    display: inline
+    background-color: white;
+}
+
+li a {
+    font-family: arial;
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 20px 10px;
+    text-decoration: none;
+}
+
+.logo {
+  margin-top: 180px;
+  margin-bottom; 20px;
+  margin-left: 430px;
+  position: fixed;
+}
+
+.form{
+    margin-top: 280px;
+    margin-bottom; 20px;
+    margin-left: 412px;
+    height: 25px;
+    position: fixed;
+}
+
+.microphone {
+    margin-top: 280px;
+    margin-bottom; 20px;
+    margin-left: 680px;
+    position: fixed;
+}
+
+.search-button {
+  margin-top: 310px;
+  margin-bottom; 20px;
+  margin-left: 455px;
+  position: fixed;
+}
+
+.lucky-button {
+  margin-top: 310px;
+  margin-bottom; 20px;
+  margin-left: 575px;
+  position: fixed;
+}
+
+.leftfooter {
+  margin-top: 600px;
+  margin-bottom; 10px;
+  margin-left: 0px;
+  font-family: arial;
+  width 200px
+  color: white;
+}
+
+.rightfooter {
+  margin-top: 0px;
+  margin-bottom; 10px;
+  margin-left: 1000px;
+  font-family: arial;
+  width 200px
+  color: white;
+}
+
+.box {
+  background: grey;
+}
